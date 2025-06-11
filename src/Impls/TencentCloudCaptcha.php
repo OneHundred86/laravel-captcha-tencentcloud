@@ -10,7 +10,6 @@ use RuntimeException;
 class TencentCloudCaptcha implements CaptchaInterface
 {
     private CaptchaService $service;
-    private string $type;
 
     public function __construct(Application $app)
     {
