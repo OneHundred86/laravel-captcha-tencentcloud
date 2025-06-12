@@ -1,6 +1,6 @@
 <?php
 
-namespace Oh86\Captcha\Tencentcloud\Impls;
+namespace Oh86\Captcha\Tencentcloud\Captchas;
 
 use Illuminate\Contracts\Container\Container as Application;
 use Oh86\Captcha\CaptchaInterface;

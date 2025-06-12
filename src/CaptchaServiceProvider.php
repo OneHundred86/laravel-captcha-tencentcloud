@@ -4,7 +4,7 @@ namespace Oh86\Captcha\Tencentcloud;
 
 use Illuminate\Support\ServiceProvider;
 use Oh86\Captcha\CaptchaManager;
-use Oh86\Captcha\Tencentcloud\Impls\TencentCloudCaptcha;
+use Oh86\Captcha\Tencentcloud\Captchas\TencentCloudCaptcha;
 
 
 class CaptchaServiceProvider extends ServiceProvider
