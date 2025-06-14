@@ -16,11 +16,11 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
+        "oh86/laravel-captcha": "*",
         "tencentcloud/captcha": "^3.0"
     },
     "require-dev": {
-        "laravel/framework": "^7.0||^8.0||^9.0||^10.0||^11.0",
-        "oh86/laravel-captcha": "*"
+        "laravel/framework": "^7.0||^8.0||^9.0||^10.0||^11.0"
     },
     "extra": {
         "laravel": {
