@@ -3,7 +3,6 @@
 ### 一、安装
 
 ```shell
-composer require oh86/laravel-captcha
 composer require oh86/laravel-captcha-tencentcloud
 ```
 
